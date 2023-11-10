@@ -1,0 +1,24 @@
+Client-Server models
+
+- Clients send a request
+- Servers handle the request
+
+- Client and servers do different things
+- Due to computing power differences
+- Due to scaling
+- Due to data & memory
+- Redundancy
+- Storage and security
+- Routing? (Might actually be harder compared to Peer to Peer)
+- Using multiple servers
+
+- Project notes:
+  - Profile pictures are the kind of thing that answers making unique user profile
+
+Terms:
+UI: User interface = User VS Front End
+API: Application Programming Interface = Front End VS Back End
+
+Making an API with Express today (Making backend with Javascript)
+
+- JS Was only a front-end language; it was only thanks to NodeJS that we can use JS for backend as well now
